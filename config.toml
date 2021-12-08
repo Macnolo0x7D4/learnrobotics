@@ -20,12 +20,16 @@ section5 = true
   subtitle = "Súmate a esta causa para tener un mejor México."
   buttontext = "¡Contáctanos!"
   buttonlink = "#"
-  image = "illustrations/worker.svg"
+  image = "illustrations/expo.png"
   clientlogos = [ "evolutionup", "tribe", "kromo", "infinite", "gutwork" ]
 
   [[params.navbar]]
   title = "¿Quienes somos?"
   url = "/"
+
+  [[params.navbar]]
+  title = "Academy"
+  url = "https://aouk.com.mx"
 
   [[params.navbar]]
   title = "Proyectos"
@@ -71,27 +75,7 @@ section5 = true
     text = "This is some explanatory text that is on two rows"
     url = "/"
     buttonText = "Get started"
-
-  [params.section2]
-  title = "You're here because you want the best"
-  subtitle = "And we know it"
-
-    [[params.section2.features]]
-    title = "Powerful and unified interface"
-    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
-    icon = "laptop-globe"
-
-    [[params.section2.features]]
-    title = "Cross-device synchronisation"
-    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
-    icon = "doc-sync"
-
-    [[params.section2.features]]
-    title = "Nomad system"
-    text = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis."
-    icon = "mobile-feed"
-
-  [params.section3]
+ [params.section3]
   title = "One platform"
   subtitle = "To rule them all"
   image = "illustrations/mockups/app-mockup.png"
