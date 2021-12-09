@@ -21,7 +21,7 @@ section5 = true
   buttontext = "¡Contáctanos!"
   buttonlink = "#"
   image = "illustrations/expo.png"
-  clientlogos = [ "evolutionup", "tribe", "kromo", "infinite", "gutwork" ]
+  clientlogos = [ "evolutionup", "aouk", "dow", "e9", "simplewater" ]
 
   [[params.navbar]]
   title = "¿Quienes somos?"
@@ -45,6 +45,10 @@ section5 = true
     [[params.navbar.sublinks]]
     title = "Discovery"
     url = "/"
+
+    [[params.navbar.sublinks]]
+    title = "ThinkAhead"
+    url = "https://www.instagram.com/think.ahead/"
 
   [[params.navbar]]
   title = "¡Contáctanos!"
