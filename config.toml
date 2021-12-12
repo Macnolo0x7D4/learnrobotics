@@ -87,29 +87,29 @@ section5 = true
   buttonLink = "#"
 
   [params.section4]
-  title = "Our Clients love us!"
-  subtitle = "Lorem ipsum sit dolor amet is a dummy text used by typography industry"
+  title = "Algunos testimonios"
+  subtitle = "A continuación podrás escuchar los testimonios de algunas personas que han sido impactadas por LearnRobotics y ayudarán al desarrollo de México en temas de STEM."
 
     [[params.section4.clients]]
-    name = "Irma Walters"
-    quote = "Lorem ipsum dolor sit aet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at."
-    job = "Accountant"
+    name = "Luis Hernandez"
+    quote = "La tecnología es lo del futuro, por eso es importante apostarle a la programación. Te abre muchas puertas y el poder de explotar tu creatividad, creando casi cualquier cosa."
+    job = "Colaborador de LearnRobotics"
     img = 1
 
     [[params.section4.clients]]
-    name = "John Bradley"
+    name = "Matias Piedra"
     quote = "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at."
-    job = "Financial Analyst"
+    job = "Colaborador de LearnRobotics"
     img = 2
 
     [[params.section4.clients]]
-    name = "Gary Blackman"
+    name = "Eric Garcia"
     quote = "Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at."
-    job = "HR Manager"
+    job = "EvolutionUp CEO"
     img = 3
 
   [params.footer]
-  logo = "fresh-white-alt.svg"
+  logo = "logo.png"
   socialmediatitle = "Follow Us"
   bulmalogo = true
 
