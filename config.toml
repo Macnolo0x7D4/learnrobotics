@@ -1,7 +1,7 @@
 baseURL = 'https://learnrobotics.com.mx/'
 languageCode = 'es-mx'
 title = 'LearnRobotics'
-theme = "fresh"
+theme = "custom"
 
 [params]
 openGraph = true
@@ -111,77 +111,54 @@ section5 = true
   [params.footer]
   logo = "logo.png"
   socialmediatitle = "Follow Us"
-  bulmalogo = true
+  bulmalogo = false
 
     [[params.footer.socialmedia]]
-    link = "https://github.com/lucperkins/github-fresh"
+    link = "https://github.com/mcn2004"
     icon = "github"
-
-    [[params.footer.socialmedia]]
-    link = "https://dribbble.com/#"
-    icon = "dribbble"
 
     [[params.footer.socialmedia]]
     link = "https://facebook.com/#"
     icon = "facebook"
 
     [[params.footer.socialmedia]]
-    link = "https://twitter.com/lucperkins"
+    link = "https://twitter.com/macnolo2004"
     icon = "twitter"
 
     [[params.footer.socialmedia]]
     link = "https://bitbucket.org/#"
-    icon = "bitbucket"
+    icon = "bitcoin"
 
 [params.footer.quicklinks.column1]
-title = "Product"
+title = "Proyectos"
 
   [[params.footer.quicklinks.column1.links]]
-  text = "Discover features"
+  text = "ThinkAhead"
   link = "/"
 
   [[params.footer.quicklinks.column1.links]]
-  text = "Why choose our product?"
+  text = "TUFD"
   link = "/"
 
   [[params.footer.quicklinks.column1.links]]
-  text = "Compare features"
+  text = "Discovery"
   link = "/"
 
   [[params.footer.quicklinks.column1.links]]
-  text = "Our roadmap"
+  text = "Aprendiendo a Programar"
   link = "/"
 
   [[params.footer.quicklinks.column1.links]]
-  text = "AGB"
+  text = "REDI"
   link = "/agb"
 
-[params.footer.quicklinks.column2]
-title = "Docs"
+#[params.footer.quicklinks.column3]
+#title = "Blog"
 
-  [[params.footer.quicklinks.column2.links]]
-  text = "Get started"
-  link = "/"
+#  [[params.footer.quicklinks.column3.links]]
+#  text = "Latest news"
+#  link = "/blog/first"
 
-  [[params.footer.quicklinks.column2.links]]
-  text = "User guides"
-  link = "/"
-
-  [[params.footer.quicklinks.column2.links]]
-  text = "Admin guide"
-  link = "/"
-
-  [[params.footer.quicklinks.column2.links]]
-  text = "Developers"
-  link = "/"
-
-[params.footer.quicklinks.column3]
-title = "Blog"
-
-  [[params.footer.quicklinks.column3.links]]
-  text = "Latest news"
-  link = "/blog/first"
-
-  [[params.footer.quicklinks.column3.links]]
-  text = "Tech articles"
-  link = "/blog/second"
+#  [[params.footer.quicklinks.column3.links]]
+#  text = "Tech articles"
+#  link = "/blog/second"

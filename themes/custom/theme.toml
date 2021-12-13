@@ -1,0 +1,6 @@
+name = "LearnRobotics Theme"
+description = "A customized theme for LearnRobotics based Fresh"
+homepage = "https://github.com/StefMa/hugo-fresh"
+tags = ["responsive", "one page", "light", "onepage", "company", "clean", "landing page"]
+features = []
+min_version = "0.45"
