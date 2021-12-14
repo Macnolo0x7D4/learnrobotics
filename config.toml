@@ -82,7 +82,7 @@ section5 = true
  [params.section3]
   title = "One platform"
   subtitle = "To rule them all"
-  image = "illustrations/mockups/app-mockup.png"
+  image = "illustrations/mockups/ss.jpeg"
   buttonText = "Get started"
   buttonLink = "#"
 
